@@ -1,0 +1,47 @@
+.all {
+  width: 30%;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
+  padding: 50px;
+  background-color: #F0F8FF;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #191970;
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+}
+
+.list {
+  margin-left: 20px;
+  text-align: left;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+input {
+  outline: none;
+  border: 1px solid #DDDDDD;
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+}
+
+input:focus {
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  border: 1px solid rgba(81, 203, 238, 1);
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+}
+
+button {
+  border: none;
+  outline:none;
+  padding: 5px;
+  color: white;
+  background-color: #191970;
+  border-radius: 5px;
+  font-family: 'Dancing Script', cursive;
+  font-size:20px;
+}
